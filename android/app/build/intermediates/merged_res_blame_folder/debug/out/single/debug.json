@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.remotedisplay.app-merged_res-28:/layout_activity_stream.xml.flat",
+        "source": "com.example.remotedisplay.app-main-30:/layout/activity_stream.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumar\\.gradle\\daemon\\8.5\\com.example.remotedisplay.app-merged_res-28:\\layout_activity_stream.xml.flat",
+        "source": "C:\\Users\\kumar\\.gradle\\daemon\\8.5\\com.example.remotedisplay.app-main-30:\\layout\\activity_stream.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumar\\.gradle\\daemon\\8.5\\com.example.remotedisplay.app-merged_res-28:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\kumar\\.gradle\\daemon\\8.5\\com.example.remotedisplay.app-main-30:\\layout\\activity_main.xml"
+    }
+]
